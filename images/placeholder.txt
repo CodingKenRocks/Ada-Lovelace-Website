@@ -1,1 +1,1 @@
-Upload your website images to this folder.
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" alt="wikipedia.org" width="104" height="142">
