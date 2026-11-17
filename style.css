@@ -1,7 +1,6 @@
-body {
-  background-color: lightblue;
+div {
+  background-color:DarkGreen;
 }
-
-h1 {
-  color: darkblue;
+.center {
+  margin: 0 auto;
 }
